@@ -5,4 +5,5 @@ xgboost
 pymongo
 scikit-learn
 PyYAML
--e .
+seaborn
+#-e .

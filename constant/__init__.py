@@ -1,3 +1,3 @@
-URL = 'mongodb+srv://raorudhra16:3011@credit.u3fbkp8.mongodb.net/?retryWrites=true&w=majority'
-DATABASE_NAME = 'Creditcardfault'
+URL = 'mongodb+srv://mithileshjaiswal:1234mithi@cluster0.p1yajf0.mongodb.net/?retryWrites=true&w=majority'
+DATABASE_NAME = 'ML_Project'
 COLLECTION_NAME = 'CreditData'

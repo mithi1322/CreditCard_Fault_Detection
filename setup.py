@@ -17,10 +17,10 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-    name='Credit Card Fault Detection',
+    name='CreditCardFaultDetection',
     version='0.0.1',
-    author='Anirudhra rao',
-    author_email='raorudhra16@gmail.com',
+    author='Mithilesh Kumar Jaiswal',
+    author_email='mithileshjaiswal0000@gmail.com',
     packages=find_packages(),
     install_requires = get_requirements('requirements.txt')
 )
